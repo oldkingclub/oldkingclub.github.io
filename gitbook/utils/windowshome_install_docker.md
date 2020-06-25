@@ -8,9 +8,9 @@
 \HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion ，将Edition ID 一栏双击点开，修改为 Professional`
 
 * 参考链接：[https://www.jianshu.com/p/0d81c9359edf](https://www.jianshu.com/p/0d81c9359edf)
-
 * 添加docker 镜像
 
+```json
 {
     "registry-mirrors": [
     "https://hub-mirror.c.163.com/",
@@ -20,3 +20,5 @@
     "debug": true,
     "experimental": false
 }
+```
+
