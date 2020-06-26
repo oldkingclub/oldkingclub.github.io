@@ -25,7 +25,7 @@
 
 双击`Aria2Run.vbs`运行即可。
 
-Aria2管理后台为<https://aria2c.com>
+Aria2管理后台为<https://aria2c.com>或通过【YAAW插件进入】
 
 ## 下载百度盘文件
 
@@ -33,7 +33,10 @@ Aria2管理后台为<https://aria2c.com>
 
 网页登陆百度网盘<https://pan.baidu.com/disk/home>
 勾选下载内容->生成链接->右击生成链接->选择`ARIA2 RPC`
-即可将任务发送到`aria2`,前往<https://aria2c.com>查看任务即可。
+即可将任务发送到`aria2`,前往【YAAW插件】查看任务即可。
+![](https://oldkingclub.github.io/public_images/aria2_download_baidupan.png)
+![](https://oldkingclub.github.io/public_images/aria2_yaaw_start.png)
+![](https://oldkingclub.github.io/public_images/aria2_yaaw_status.png)
 
 ## 常见问题
 
