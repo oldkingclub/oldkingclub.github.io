@@ -2,9 +2,9 @@
 
 ## 下载链接
 
-[eclipse2011_cmd.part1.rar](https://oldkingclub.github.io/public_images/eclipse2011_cmd.part1.rar)
+[eclipse2011_cmd.part1.rar](https://oldkingclub.github.io/soft/eclipse2011_cmd.part1.rar)
 
-[eclipse2011_cmd.part2.rar](https://oldkingclub.github.io/public_images/eclipse2011_cmd.part2.rar)
+[eclipse2011_cmd.part2.rar](https://oldkingclub.github.io/soft/eclipse2011_cmd.part2.rar)
 
 ## 使用指令
 
