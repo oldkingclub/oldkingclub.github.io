@@ -1,0 +1,17 @@
+{
+  "styles": {
+      "website": "styles/website.css"
+  },
+  "plugins": ["donate"],
+	"pluginsConfig": {
+	"donate": {
+	"eth && usdt": "https://oldkingclub.github.io/public_images/eth_address.png",
+	"trx && usdt": "https://oldkingclub.github.io/public_images/trx_address.png",
+	"eos && usdt": "https://oldkingclub.github.io/public_images/eos_address.png",
+	"title": "谢谢老板",
+	"button": "打赏",
+	"eth && usdtText": "ETH打赏",
+	"trx && usdtText": "TRX打赏",
+	"eos && usdtText": "EOS打赏"
+	}
+}
