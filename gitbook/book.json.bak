@@ -1,17 +1,17 @@
-{
+ï»¿{
   "styles": {
       "website": "styles/website.css"
   },
-  "plugins": ["donate"],
+  "plugins": ["donate","copy-code-button"],
 	"pluginsConfig": {
-	"donate": {
-	"eth && usdt": "https://oldkingclub.github.io/public_images/eth_address.png",
-	"trx && usdt": "https://oldkingclub.github.io/public_images/trx_address.png",
-	"eos && usdt": "https://oldkingclub.github.io/public_images/eos_address.png",
-	"title": "Ğ»Ğ»ÀÏ°å",
-	"button": "´òÉÍ",
-	"eth && usdtText": "ETH´òÉÍ",
-	"trx && usdtText": "TRX´òÉÍ",
-	"eos && usdtText": "EOS´òÉÍ"
+		"donate": {
+		"wechat": "https://oldkingclub.github.io/public_images/eth_address.png",
+		"alipay": "https://oldkingclub.github.io/public_images/trx_address.png",
+		"title": "æ‚¨çš„æ‰“èµæ˜¯æˆ‘çš„åŠ¨åŠ›!",
+		"button": "æ‰“èµ",
+		"wechatText": "ETH æˆ– USDT",
+		"alipayText": "TRX æˆ– USDT"
+		
+		}
 	}
 }
