@@ -46,36 +46,25 @@
 
 等待系统审核完成即可。
 
-## 3. 抵押USDT获取钻石
+## 3. Defibox EOS-USDT做市获取BOX
 
-找到 DMD（钻石） DAPP，如果没有在推荐里面就 在搜索框里 粘贴以下网址
+找到 Defibox  DAPP，如果没有在推荐里面就 在搜索框里 Defibox  进入
 
-https://dmd.finance/  进入
+![](https://oldkingclub.github.io/public_images/defibox_1.jpg)
 
-![](https://oldkingclub.github.io/public_images/tp_dmd_1.jpg)
+![](https://oldkingclub.github.io/public_images/defibox_2.jpg)
 
-![](https://oldkingclub.github.io/public_images/tp_dmd_2.jpg)
-
-![](https://oldkingclub.github.io/public_images/tp_dmd_3.jpg)
-
-![](https://oldkingclub.github.io/public_images/tp_dmd_4.jpg)
 
 ## 4. 收益兑换成EOS
 
 有了收益请马上卖掉，不要恋战，请记住，你只是一个小矿工。
 
-![](https://oldkingclub.github.io/public_images/tp_dmd_5.jpg)
+![](https://oldkingclub.github.io/public_images/defibox_3.jpg)
 
-![](https://oldkingclub.github.io/public_images/tp_dmd_6.jpg)
-
-![](https://oldkingclub.github.io/public_images/tp_dmd_7.jpg)
-
-![](https://oldkingclub.github.io/public_images/tp_dmd_8.jpg)
-
+![](https://oldkingclub.github.io/public_images/defibox_4.jpg)
 
 
 ## 5. 收益情况
-10000USDT 平均每小时收益 1EOS
 
 持续更新中...
 
