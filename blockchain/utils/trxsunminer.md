@@ -86,11 +86,11 @@ JUSTSWAP目前用户较多可能会出现操作失败的情况，回到钱包看
 
 ![](https://oldkingclub.github.io/public_images/sun_trx_jst_1.png)
 ![](https://oldkingclub.github.io/public_images/sun_trx_jst_2.png)
-![](https://oldkingclub.github.io/public_images/sun_trx_jst_3.png)
+
 
 ## 4. 收获SUN
 
-![](https://oldkingclub.github.io/public_images/sun_trx_jst_4.png)
+![](https://oldkingclub.github.io/public_images/sun_trx_jst_3.png)
 
 
 
