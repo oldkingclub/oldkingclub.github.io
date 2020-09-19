@@ -1,26 +1,32 @@
 # USDT搬砖教程 
-### 交易所账号
+### 交易所账号准备
 
 * 玩客家
 
 ![](https://oldkingclub.github.io/public_images/wkj_ref.png)
+
 [点此注册](https://www.wkj.link/register?invit=ZXCHBW)
 
 * 火币
 
 ![](https://oldkingclub.github.io/public_images/huobi_ref.png)
+
 [点此注册](https://www.huobi.fm/topic/invited/?invite_code=pi923)
 
 
 
 * okex
+
+
 ![](https://oldkingclub.github.io/public_images/okex_ref.png)
+
 [点此注册](https://www.okex.me/join/2110474)
 
 
 * 币安
 
 ![](https://oldkingclub.github.io/public_images/binance_ref.png)
+
 [点此注册](https://www.binancezh.com/cn/register?ref=18593651)
 
 
