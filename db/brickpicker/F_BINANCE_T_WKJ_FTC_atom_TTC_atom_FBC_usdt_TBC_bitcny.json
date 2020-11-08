@@ -14,7 +14,7 @@
     "ToDepositMemo": "lygrok",
     "ToWithdrawChain":"",
     "MinBalanceRatio": 2,
-    "MaxAmount": 40,
+    "MaxAmount": 50,
     "MinAmount": 0.1,
     "ToWithDrawAmount": 300,
     "FromWithDrawAmount": 300,
