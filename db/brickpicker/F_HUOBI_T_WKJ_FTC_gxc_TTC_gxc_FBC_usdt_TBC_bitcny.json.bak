@@ -7,7 +7,7 @@
     "FromBaseCoin": "usdt",
     "FromDepositAddress": "huobi-deposit",
     "FromDepositMemo": "222026",
-    "FromWithdrawChain":"",
+    "FromWithdrawChain":"gxc",
     "ToTarCoin": "gxc",
     "ToBaseCoin": "bitcny",
     "ToDepositAddress": "wkj1111",
