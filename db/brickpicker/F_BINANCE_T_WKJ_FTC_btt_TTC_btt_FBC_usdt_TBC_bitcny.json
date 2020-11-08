@@ -31,5 +31,6 @@
     "MaxOrders": 1,
     "UpdateConfigSeconds": 40,
     "UsdtConvertExName": "WKJ",
-    "ConfigStatus": "encoded"
+    "ConfigStatus": "encoded",
+    "WithdrawAddAmount":0.1
 }
