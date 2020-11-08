@@ -12,7 +12,7 @@
     "ToDepositAddress": "TSUEgZw4vuyxFQK1MaCrSw1U2Liw3vhN7r",
     "ToDepositMemo": "",
     "MinBalanceRatio": 2,
-    "MaxAmount": 5,
+    "MaxAmount": 10,
     "MinAmount": 0.1,
 		"ToWithDrawAmount": 49998.751,
 		"FromWithDrawAmount": 60000.751,
