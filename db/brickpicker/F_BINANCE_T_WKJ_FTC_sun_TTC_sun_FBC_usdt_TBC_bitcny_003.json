@@ -18,7 +18,7 @@
     "MinAmount": 0.1,
     "ToWithDrawAmount": 20,
     "FromWithDrawAmount": 20,
-    "ToNeedDepositAmount": 20,
+    "ToNeedDepositAmount": 9,
     "FromNeedDepositAmount": 20,
     "ToWithDrawAmountLimit": 70,
     "FromWithDrawAmountLimit": 70,
