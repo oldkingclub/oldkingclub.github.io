@@ -1,0 +1,12 @@
+{
+    "Username": "dbmtest",
+    "ExName": "WKJ",
+    "TarCoin": "eos",
+    "BaseCoin": "bitcny",
+    "Threshold": 0.001,
+    "Leverage": 0,
+    "OrderAmount": 2,
+    "Profit": 0.003,
+    "NotifyEmail": "1257378235@qq.com",
+    "SepSeconds": 10
+}
