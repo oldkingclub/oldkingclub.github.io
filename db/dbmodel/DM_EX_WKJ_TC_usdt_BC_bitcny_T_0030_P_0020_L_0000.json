@@ -5,7 +5,7 @@
     "BaseCoin": "bitcny",
     "Threshold": 0.003,
     "Leverage": 0,
-    "OrderAmount": 10,
+    "OrderAmount": 300,
     "Profit": 0.002,
     "NotifyEmail": "1257378235@qq.com",
     "SepSeconds": 10
