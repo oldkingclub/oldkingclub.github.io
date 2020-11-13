@@ -1,0 +1,12 @@
+{
+    "Username": "oldkingdbm",
+    "ExName": "WKJ",
+    "TarCoin": "dot",
+    "BaseCoin": "bitcny",
+    "Threshold": 0.003,
+    "Leverage": 0,
+    "OrderAmount": 3.666,
+    "Profit": 0.003,
+    "NotifyEmail": "1257378235@qq.com",
+    "SepSeconds": 10
+}
