@@ -6,7 +6,7 @@
 
 ![](https://oldkingclub.github.io/public_images/WhaleEx_ref.jpg)
 
-[点此创建](https://w.whaleex.com.cn/ym/dash/login?inviteCode=U-PVy)
+[点此创建](https://ym.whaleex.com.cn/ym/dash/login?inviteCode=U-PVy)
 
 创建账户后按提示完成设备认证
 
