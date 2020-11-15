@@ -3,7 +3,7 @@
     "ExName": "WKJ",
     "TarCoin": "usdt",
     "BaseCoin": "bitcny",
-    "Threshold": 0.0003,
+    "Threshold":0.0003,
     "Leverage": 0,
     "OrderAmount": 100,
     "Profit": 0.0002,
