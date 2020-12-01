@@ -2,7 +2,7 @@
     "FromExName": "BINANCE",
     "ToExName": "WKJ",
     "NotifyEmail": "1257378235@qq.com",
-    "StepSeconds": 10,
+    "StepSeconds": 5,
     "FromTarCoin": "cocos",
     "FromBaseCoin": "usdt",
     "FromDepositAddress": "binance",
