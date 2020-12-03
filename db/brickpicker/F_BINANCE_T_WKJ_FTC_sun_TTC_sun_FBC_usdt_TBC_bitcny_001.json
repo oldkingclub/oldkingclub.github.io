@@ -32,5 +32,5 @@
     "UpdateConfigSeconds": 40,
     "UsdtConvertExName": "WKJ",
     "ConfigStatus": "encoded",
-    "WithdrawAddAmount": 0.1
+    "WithdrawAddAmount": 0.0001
 }
