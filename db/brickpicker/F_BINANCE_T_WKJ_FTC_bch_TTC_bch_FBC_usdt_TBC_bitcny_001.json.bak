@@ -21,7 +21,7 @@
     "ToNeedDepositAmount": 3,
     "FromNeedDepositAmount": 3,
     "ToWithDrawAmountLimit": 7.5,
-    "FromWithDrawAmountLimit": 6.5,
+    "FromWithDrawAmountLimit": 7.5,
     "ToBuyProfit": 0.001,
     "ToSellProfit": 0.001,
     "FromUsdt2Cny": true,
