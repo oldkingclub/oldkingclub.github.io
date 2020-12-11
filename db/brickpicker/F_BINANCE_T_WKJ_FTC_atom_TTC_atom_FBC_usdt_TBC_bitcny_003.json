@@ -2,7 +2,7 @@
     "FromExName": "BINANCE",
     "ToExName": "WKJ",
     "NotifyEmail": "1257378235@qq.com",
-    "StepSeconds": 10,
+    "StepSeconds": 5,
     "FromTarCoin": "atom",
     "FromBaseCoin": "usdt",
     "FromDepositAddress": "6e457b01000000007285f6ebffe9c860198c6ccee19ad7bacfb702f04a54270c75a8aeede382e3fe00fb3b2f7a18bdba03c9b1c74435c2a536f85da55367bec638f9fd3e3841de32fa52508bdbe8c46415c2597482f5d5a7",
