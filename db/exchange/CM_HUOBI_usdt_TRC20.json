@@ -1,0 +1,16 @@
+{
+    "ExName": "HUOBI",
+    "Coin": "usdt",
+    "Chain": "TRC20",
+    "MinBalance": 1500,
+    "MaxBalance": 4000,
+    "DepositAddress": "cfe28c010000000069f44463fd5baeb32c9f28f05655468e15ac8fd576842b1a5ac31c8551735de8",
+    "DepositMemo": "cfe28c0100000000c4690e4929e7c81ad65e5da419a61f5ecb5482e0a1a4851beacf227c260d105f",
+    "DepositUsername":"0eee8c0100000000732b5e33965193c0845520aace30b2804ccf36f4944b0f0e20717847444e444f",
+    "WithdrawAmount": 1500,
+    "DepositAmount": 1000,
+    "AmountPrecision": 3,
+    "NotifyEmail": "952368721@qq.com",
+    "ConfigStatus": "encoded",
+    "Balance": 0
+}
