@@ -1,7 +1,7 @@
 {
     "ExName": "HUOBI",
     "Coin": "usdt",
-    "Chain": "TRC20",
+    "Chain": "trc20usdt",
     "MinBalance": 1500,
     "MaxBalance": 4000,
     "DepositAddress": "cfe28c010000000069f44463fd5baeb32c9f28f05655468e15ac8fd576842b1a5ac31c8551735de8",
