@@ -5,13 +5,13 @@
     "StepSeconds": 4,
     "FromTarCoin": "eth",
     "FromBaseCoin": "usdt",
-    "FromDepositAddress": "72457b01000000003ad7a06bb1e5f1bbf50729357806746fbed8aa57449cd860aa828150a45f0534b6129f1ea604f10bc7c65f1c37eade57d86d4e81b95eb41c35653c1401085496",
-    "FromDepositMemo": "72457b0100000000f0e451b11284238b56ee1357821994d5f2c2a03479df3e49553d20842272c963",
-    "FromWithdrawChain": "ETH",
+     "FromDepositAddress": "6e457b010000000028cdda39e77241daece4002d1a8bffa998eb47875f61f1ffebf66fc825b5eaf3b972d52490223e06f630cf035189e23e298ec48631b388acb4e1073cbd75d52e",
+    "FromDepositMemo": "6e457b0100000000b7914c5b63ce655d0965f2da72187956a570fce27a97cd0f24e16a6f73425a18",
+    "FromWithdrawChain": "BNB",
     "ToTarCoin": "eth",
     "ToBaseCoin": "bitcny",
-    "ToDepositAddress": "72457b0100000000bb2eb470f2db20dd777a07e9751f593fbebdd796d6131d288a2e3d4b7afb384d951a1e91b2f8d6301b1860d1fd2605a557d0a3b7002627044a1dd857e2bf0b93",
-    "ToDepositMemo": "72457b01000000004b839b5bae1cade49e59449d19ec8c430fed6409a45ecbca9d2c842d4ac17a67",
+    "ToDepositAddress": "6e457b010000000002f5c4597e131cb06fe9b2014eaef5e35ba438026741675a274f6d254a50cb6341f67435b463a3d2e72d1f0d2b0d27ab717929f30a6ec9bf2bce331d6c9c9cc4",
+    "ToDepositMemo": "6e457b01000000009854b8329d1e87e9be18ca5a5b9c8d09507d1a2035988d47ef06a674d6bdb66f",
     "ToWithdrawChain": "",
     "MinBalanceRatio": 2,
     "MaxAmount": 0.2,
@@ -32,5 +32,5 @@
     "UpdateConfigSeconds": 40,
     "UsdtConvertExName": "WKJ",
     "ConfigStatus": "encoded",
-    "WithdrawAddAmount": 0
+    "WithdrawAddAmount": 0.001
 }
