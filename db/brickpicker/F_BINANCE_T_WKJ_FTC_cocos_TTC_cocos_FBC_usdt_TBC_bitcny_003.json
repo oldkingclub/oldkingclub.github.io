@@ -14,7 +14,7 @@
     "ToDepositMemo": "mwf4kc",
     "ToWithdrawChain": "",
     "MinBalanceRatio": 2,
-    "MaxAmount": 50000,
+    "MaxAmount": 70000,
     "MinAmount": 0.1,
     "ToWithDrawAmount": 250000,
     "FromWithDrawAmount": 250000,
