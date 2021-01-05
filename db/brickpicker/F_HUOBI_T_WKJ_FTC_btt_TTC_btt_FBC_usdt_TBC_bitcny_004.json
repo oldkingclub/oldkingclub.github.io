@@ -7,7 +7,7 @@
     "FromBaseCoin": "usdt",
     "FromDepositAddress": "2a3e9401000000004bb1391480fb8b5987d75cb6b1cee98128681c7e96d71af2f962fc41001acdfa1d5170677b2eb7776fc95a06901ecb058e911249275d520cb3066074f81ef6fd",
     "FromDepositMemo": "1a027b010000000084b96b7283af8b5654bbcca090125a3f9747afed064f8b7a1c82da7c085f7052",
-    "FromWithdrawChain": "TRX",
+    "FromWithdrawChain": "btt",
     "ToTarCoin": "btt",
     "ToBaseCoin": "bitcny",
     "ToDepositAddress": "1a027b010000000085f0ccef1305e3245ff765a6fb10567ac7c13bc7c986362736fc8fc569b223661ff808e0ea555b50eda6720b349c47d3d19d1794e76c11cee4785ec24ace1457",
