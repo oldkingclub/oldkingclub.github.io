@@ -7,7 +7,7 @@
     "FromBaseCoin": "usdt",
     "FromDepositAddress": "rGZhwH4U6aap8Ys5PqPYnsZu1uJA3yRDCB",
     "FromDepositMemo": "100701",
-    "FromWithdrawChain": "XRP",
+    "FromWithdrawChain": "",
     "ToTarCoin": "xrp",
     "ToBaseCoin": "bitcny",
     "ToDepositAddress": "r48GPigefMpT2uAdM5cLsVh3rFdN8RnPUv",
