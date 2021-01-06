@@ -20,7 +20,7 @@
     "FromWithDrawAmount": 1000,
     "ToNeedDepositAmount": 1000,
     "FromNeedDepositAmount": 1000,
-    "ToWithDrawAmountLimit": 2500,
+    "ToWithDrawAmountLimit": 3500,
     "FromWithDrawAmountLimit": 2500,
     "ToBuyProfit": 0.002,
     "ToSellProfit": 0.002,
