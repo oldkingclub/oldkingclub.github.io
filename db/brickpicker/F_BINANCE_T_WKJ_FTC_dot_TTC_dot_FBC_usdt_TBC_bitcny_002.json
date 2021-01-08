@@ -7,7 +7,7 @@
     "FromBaseCoin": "usdt",
     "FromDepositAddress": "14r4USH7LFpvszRHQcjWvKyvqAA6CTVX86V8zUE9Frrwq4wm",
     "FromDepositMemo": "",
-    "FromWithdrawChain": "DOT",
+    "FromWithdrawChain": "dot",
     "ToTarCoin": "dot",
     "ToBaseCoin": "bitcny",
     "ToDepositAddress": "16RndDa4E5CKRWu7EFgtRQ2pBoayCt5g5peVWC6v4F2788bN",
