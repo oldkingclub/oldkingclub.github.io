@@ -10,7 +10,7 @@
     "FromWithdrawChain": "hrc20ltc",
     "ToTarCoin": "ltc",
     "ToBaseCoin": "bitcny",
-    "ToDepositAddress": "de17950100000000811994b633d512252bb40af400ce1e26e4f3be7d54e423419387dc493a28328e854960c7eab4c0150362aa57bf4a9186d8029043afb0c8b79b9522f1bb115aaf",
+    "ToDepositAddress": "b75a9501000000006e41a1f2e7f21648d1e1b0fc5bd99cab2407f23403bdb0593e93362945ab4491c83bb74a4fa3fedefaeaeea448fda9491b63dc924b508c28b19efebd667c53b8",
     "ToDepositMemo": "1a027b010000000084b96b7283af8b5654bbcca090125a3f9747afed064f8b7a1c82da7c085f7052",
     "ToWithdrawChain": "",
     "MinBalanceRatio": 2,
