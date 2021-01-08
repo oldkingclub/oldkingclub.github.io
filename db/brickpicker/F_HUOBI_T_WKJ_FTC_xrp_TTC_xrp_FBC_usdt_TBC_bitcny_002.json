@@ -13,7 +13,7 @@
     "ToDepositAddress": "r48GPigefMpT2uAdM5cLsVh3rFdN8RnPUv",
     "ToDepositMemo": "10000002",
     "ToWithdrawChain": "",
-    "MinBalanceRatio": 4,
+    "MinBalanceRatio": 5,
     "MaxAmount": 200,
     "MinAmount": 0.1,
     "ToWithDrawAmount": 14999,
