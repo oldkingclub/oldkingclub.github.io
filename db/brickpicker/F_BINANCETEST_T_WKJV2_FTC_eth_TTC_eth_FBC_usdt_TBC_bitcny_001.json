@@ -2,7 +2,7 @@
     "FromExName": "BINANCETEST",
     "ToExName": "WKJV2",
     "NotifyEmail": "1257378235@qq.com",
-    "StepSeconds": 3,
+    "StepSeconds": 2,
     "FromTarCoin": "eth",
     "FromBaseCoin": "usdt",
     "FromDepositAddress": "72457b01000000003ad7a06bb1e5f1bbf50729357806746fbed8aa57449cd860aa828150a45f0534b6129f1ea604f10bc7c65f1c37eade57d86d4e81b95eb41c35653c1401085496",

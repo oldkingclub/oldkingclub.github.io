@@ -2,7 +2,7 @@
     "FromExName": "BINANCE",
     "ToExName": "ZB",
     "NotifyEmail": "1257378235@qq.com",
-    "StepSeconds": 5,
+    "StepSeconds": 2,
     "FromTarCoin": "fil",
     "FromBaseCoin": "usdt",
     "FromDepositAddress": "36447b010000000023d467cac4918193501fa1a0232993383b276d2cc27931500e271c85b45733a96d0b9c223f9890216a3b95020e10b5d573545bf42b011b76ad37a3813c7a673f",

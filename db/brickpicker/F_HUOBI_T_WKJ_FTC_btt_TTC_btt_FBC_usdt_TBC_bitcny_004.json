@@ -2,7 +2,7 @@
     "FromExName": "HUOBI",
     "ToExName": "WKJ",
     "NotifyEmail": "1257378235@qq.com",
-    "StepSeconds": 4,
+    "StepSeconds": 2,
     "FromTarCoin": "btt",
     "FromBaseCoin": "usdt",
     "FromDepositAddress": "2a3e9401000000004bb1391480fb8b5987d75cb6b1cee98128681c7e96d71af2f962fc41001acdfa1d5170677b2eb7776fc95a06901ecb058e911249275d520cb3066074f81ef6fd",
