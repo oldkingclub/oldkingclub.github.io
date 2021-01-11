@@ -16,7 +16,7 @@
     "MinBalanceRatio": 2,
     "MaxAmount": 20,
     "MinAmount": 0.1,
-    "ToWithDrawAmount": 300,
+    "ToWithDrawAmount": 299,
     "FromWithDrawAmount": 300,
     "ToNeedDepositAmount": 300,
     "FromNeedDepositAmount": 300,

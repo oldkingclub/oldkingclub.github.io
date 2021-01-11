@@ -7,7 +7,7 @@
     "FromBaseCoin": "usdt",
     "FromDepositAddress": "c63b940100000000f757ebe2c819c6990e4ab783bf0af35941823f20d6409539773f2c05b3a1b45e1f203bf55b381f947821a89891c15641feac43d5f556662cca12c64781bc850f",
     "FromDepositMemo": "72457b01000000008a8c85625a79fe953787c0fb65fe082525d9d274c0642a0043b42ecb797af9c2",
-    "FromWithdrawChain": "doge1",
+    "FromWithdrawChain": "DOGE",
     "ToTarCoin": "doge",
     "ToBaseCoin": "bitcny",
     "ToDepositAddress": "72457b01000000007b4f33bc9ff7fc42f52d03a051dcb7a6a331bc0252835ebf39ec038a136fcda66ae9604eb2532233b94909536ed1fd81f235a0ec700a2f4e174116ba05b13082",
