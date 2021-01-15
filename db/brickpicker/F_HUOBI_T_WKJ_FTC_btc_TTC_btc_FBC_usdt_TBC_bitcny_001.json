@@ -26,7 +26,7 @@
     "ToSellProfit": 0.001,
     "FromUsdt2Cny": true,
     "ToUsdt2Cny": false,
-    "MinMoney": 79.99,
+    "MinMoney": 49.99,
     "ProfitStep": 0.002,
     "MaxOrders": 1,
     "UpdateConfigSeconds": 40,
