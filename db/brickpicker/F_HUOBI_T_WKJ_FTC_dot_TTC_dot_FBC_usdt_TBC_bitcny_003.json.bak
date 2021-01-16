@@ -14,7 +14,7 @@
     "ToDepositMemo": "6e9d9501000000003c0b157d7322deede77ac02136bc73e21c392cede23baa341c089fdc1700a6d1",
     "ToWithdrawChain": "",
     "MinBalanceRatio": 2,
-    "MaxAmount": 50,
+    "MaxAmount": 100,
     "MinAmount": 0.1,
     "ToWithDrawAmount": 300,
     "FromWithDrawAmount": 300,
