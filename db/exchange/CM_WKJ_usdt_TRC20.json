@@ -3,7 +3,7 @@
     "Coin": "usdt",
     "Chain": "TRC20",
     "MinBalance":4000,
-    "MaxBalance": 10000,
+    "MaxBalance": 8000,
     "DepositAddress": "cfe28c010000000069f44463fd5baeb32c9f28f05655468e15ac8fd576842b1a5ac31c8551735de8",
     "DepositMemo": "cfe28c0100000000c4690e4929e7c81ad65e5da419a61f5ecb5482e0a1a4851beacf227c260d105f",
     "DepositUsername":"0de38c0100000000f93d99c86d75241b8007926c72b4966a20cc0a5725f7eb0da08925df6a2fdbf8",
